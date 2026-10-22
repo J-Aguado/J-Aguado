@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**J-Aguado/J-Aguado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Jorge.
 
-Here are some ideas to get you started:
+💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM).**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=J-Aguado)](https://github.com/stats-organization/github-stats-extended)
+
+---
+
+## 🙋‍♂️ Sobre mí
+
+- 🎓 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma**.
+- 💻 Estoy aprendiendo a programar.
+- 🐧 Me interesa el mundo de Linux y los servidores.
+-  Me gustan la impresión 3D, la electrónica y los proyectos tecnológicos.
+- 🎯 Mi objetivo es seguir aprendiendo y construir proyectos propios que me permitan poner en práctica mis conocimientos.
+
+---
+
+## 🚧 Tecnologías
+
+| Tecnología | Nivel actual / objetivo |
+|---|---|
+| ☕ Java | Aprendiendo programación |
+| 🌐 HTML y Markdown | Aprendiendo a crear y estructurar documentos |
+| 🐧 Linux | Aprendiendo de forma autodidacta |
+| 🐳 Docker | Explorando la gestión de contenedores |
+| 🔧 Git y GitHub | Aprendiendo control de versiones |
+
+---
+
+## 💡 Mis Hobbies
+
+- El deporte (Rugby, gimnasio y triatlon)
+- Los Legos
+- Los coches y la mecanica
+- La tecnologia
+- Construir cosas 
+
+---
+
+## 💬 Mi filosofía
+
+> "El mayor maestro, el fracaso es." —Yoda (Episodio VIII)
+![Yoda]()
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
