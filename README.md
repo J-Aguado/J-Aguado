@@ -42,7 +42,7 @@
 ## 💬 Mi filosofía
 
 > "El mayor maestro, el fracaso es." —Yoda (Episodio VIII)
-![Yoda]()
+![Yoda](./CelebrationJediGIFbyLEGO.gif)
 
 ---
 
